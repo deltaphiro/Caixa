@@ -30,6 +30,6 @@ Beberapa tujuan dan manfaat dari product kami, yaitu:
 2. [Dashboard](https://www.figma.com/file/2tm0LwtXSxu1W39GPB7yQ4/Dashboard-Caixa?node-id=0%3A1)
 
 **Teams** :
-- 👨‍🎓 **Alfatarizki Budi A**
+- 👨‍🎓 **Alfatarizky Budi A**
 - 👨‍🎓 **Adam Firdaus**
 - 👨‍🎓 **Fata Naufal Hanan**
